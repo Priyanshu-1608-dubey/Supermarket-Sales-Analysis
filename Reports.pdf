@@ -1,0 +1,66 @@
+Supermarket Sales Analysis
+1. Introduction
+
+This project is based on the analysis of supermarket sales data. The dataset contains 500 sales transactions with details such as product, category, branch, city, customer type, payment method, quantity, sales and rating.
+
+The main purpose of the project is to understand sales performance and find useful patterns from the data.
+
+2. Objectives
+Analyze overall supermarket sales.
+Find the best-performing products and categories.
+Compare sales between different branches and cities.
+Analyze customer types and payment methods.
+Calculate important sales KPIs.
+Create charts and an interactive Power BI dashboard.
+3. Tools Used
+Microsoft Excel – Data cleaning and preparation
+Python – Data analysis
+Pandas – Data processing
+Matplotlib – Charts and visualization
+Power BI – Dashboard and interactive analysis
+DAX – KPI calculations
+4. Dataset
+
+The dataset contains 500 transactions and 13 columns, including:
+
+Invoice ID, Date, Branch, City, Customer Type, Gender, Product, Category, Quantity, Unit Price, Payment, Rating and Sales.
+
+The data was checked for missing values, duplicates and sales calculation errors before analysis.
+
+5. Key Results
+Metric	Result
+Total Sales	₹244,411.08
+Transactions	500
+Quantity Sold	2,768
+Average Transaction	₹488.82
+Average Rating	3.99/5
+
+Some important findings were:
+
+Cheese had the highest product sales – ₹27,906.30.
+Branch C (Mumbai) had the highest sales – ₹72,469.45.
+Beverages was the highest-selling category – ₹56,108.24.
+UPI was the most-used payment method with 127 transactions.
+6. Power BI Dashboard
+
+The Power BI dashboard contains KPI cards and charts for:
+
+Total Sales
+Total Transactions
+Quantity Sold
+Average Transaction
+Average Rating
+Sales by Product
+Sales by Branch
+Sales by Category
+Payment Methods
+Customer Type
+City-wise Sales
+
+Filters were also added for Branch, City, Category, Payment, Customer Type and Gender.
+
+7. Conclusion
+
+This project helped me understand how sales data can be cleaned, analyzed and converted into useful business insights. Python was used for analysis and Power BI was used to create an interactive dashboard.
+
+The project also helped me gain practical experience in Excel, Python, Pandas, Data Visualization, DAX and Power BI.
